@@ -9,18 +9,19 @@ Este proyecto hace scraping de datos desde el sitio **Books to Scrape** utilizan
 
 Instala las dependencias del proyecto:
 
-```bash```
+```bash
 npm install
-
-```Script ```
+```
+```Script 
 Ejecutar script para extraccion de datos en la consola
 
 node scrape.js
-
+```
 ### Ver los Resultados para ver los resultados en una página web, usa http-server:
 
-npm install -g http-server
-http-server
+```npm install -g http-server```
+
+```http-server```
 
 ### Luego, abre http://localhost:8080 en tu navegador para ver los libros.
 
